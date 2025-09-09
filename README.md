@@ -1,14 +1,12 @@
-<h1 align="left">Hello, and welcome to my lair of codes</h1>
-
-###
-
 <img align="right" height="150" src="https://github.com/kinator.png"  />
 
 ###
 
-<br clear="both">
+<h1 align="left">Hello, and welcome to my lair of codes</h1>
 
-<h2 align="left">Here's a summary of what I have worked with</h2>
+###
+
+<h3 align="left">Here's a summary of what I have worked with</h3>
 
 ###
 
