@@ -32,23 +32,17 @@
 
 <br clear="both">
 
-<h4 align="left"></h4>
-
-###
-
-<br clear="both">
-
 <h3 align="left">The languages and frameworks I use:</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">WEB</h3>
+<h3 align="left">WEB</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -70,17 +64,11 @@
 
 <br clear="both">
 
-<h4 align="left"></h4>
+<h3 align="left">Application</h3>
 
 ###
 
-<br clear="both">
-
-<h3 align="center">Application</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -104,17 +92,11 @@
 
 <br clear="both">
 
-<h4 align="left"></h4>
+<h3 align="left">Tools</h3>
 
 ###
 
-<br clear="both">
-
-<h3 align="center">Tools</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
